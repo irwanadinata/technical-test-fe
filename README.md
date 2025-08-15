@@ -23,7 +23,7 @@
    - `.env` di folder frontend<br>
    - `.env.dev` di folder backend
 
-4. Jalankan Back End
+4. Jalankan Back End yang sudah ada
 
    ```bash
    npm run dev:firebase
