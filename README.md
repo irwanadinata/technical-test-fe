@@ -1,6 +1,6 @@
 ## Technical Test Dashboard Project – Frontend (Next.js)
 
-## Setup Local
+### Setup Local
 
 1. Clone repository ini
 
@@ -19,6 +19,7 @@
 
    File `.env` untuk FE dan BE sudah saya lampirkan melalui chat HRD.<br>
    Silakan letakkan file:<br>
+
    - `.env` di folder frontend<br>
    - `.env.dev` di folder backend
 
