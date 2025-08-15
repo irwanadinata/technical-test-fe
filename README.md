@@ -17,10 +17,10 @@
 
 3. Setup .env (Front End dan Back End)
 
-   File .env untuk FE dan BE sudah saya lampirkan melalui chat HRD.
-   Silakan letakkan file:
-   .env di folder frontend
-   .env.dev di folder backend
+   File `.env` untuk FE dan BE sudah saya lampirkan melalui chat HRD.<br>
+   Silakan letakkan file:<br>
+   - `.env` di folder frontend<br>
+   - `.env.dev` di folder backend
 
 4. Jalankan Back End
 
