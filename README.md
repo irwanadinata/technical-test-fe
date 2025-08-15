@@ -1,6 +1,6 @@
 ## Technical Test Dashboard Project – Frontend (Next.js)
 
-## ✨ Features
+### Features
 - Next.js 14 + TypeScript dengan Ant Design & Axios
 - API Proxy melalui Next.js API Routes → External API
 - Product List dengan tabel, pagination, dan search (debounce 300ms)
