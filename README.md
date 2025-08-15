@@ -7,6 +7,11 @@
 - Create/Edit Product dalam satu modal, validasi dengan Antd Form
 - Firebase Authentication (login, protected routes, token di setiap request)
 
+### System Requirements
+- Node.js **v18** atau lebih tinggi
+- npm **v9**
+- Koneksi internet (untuk Firebase)
+
 ### Setup Local
 
 1. Clone repository ini
