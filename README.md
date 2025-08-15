@@ -9,7 +9,7 @@
 
 ### System Requirements
 - Node.js **v18** atau lebih tinggi
-- npm **v9**
+- npm **v9** atau lebih tinggi
 - Koneksi internet (untuk Firebase)
 
 ### Setup Local
