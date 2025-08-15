@@ -1,25 +1,26 @@
-# Technical Test Dashboard Project – Frontend (Next.js)
+## Technical Test Dashboard Project – Frontend (Next.js)
 
 ## Setup Local
 
-1. Clone repository ini:
+1. Clone repository ini
 
    ```bash
    git clone https://github.com/irwanadinata/technical-test-fe.git
-
+   cd technical-test-fe
    ```
 
-2. Install dependencies:
+2. Install dependencies
 
    ```bash
    npm install
    ```
 
-3. Setup .env di Front End dan Back End:
+3. Setup .env (Front End dan Back End)
 
-   ```bash
-   link download .env FE dan BE sudah saya berikan lewat chat
-   ```
+   File .env untuk FE dan BE sudah saya lampirkan melalui chat HRD.
+   Silakan letakkan file:
+   .env di folder frontend
+   .env.dev di folder backend
 
 4. Jalankan Back End
 
@@ -33,10 +34,10 @@
    npm run dev
    ```
 
-5. Login web dengan:
+6. Login web
+   Gunakan akun berikut untuk mencoba login web:
 
    ```bash
    email: irwan@gmail.com
    password: admin123
    ```
-
